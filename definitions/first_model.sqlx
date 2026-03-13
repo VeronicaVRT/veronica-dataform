@@ -1,4 +1,3 @@
-config { type: "view", schema:"test_ds" }
+config { type: "table" }
 
-select "test" as name, "test2" as name2
-
+select "dataform" as name, "gcaaap" as platform    
